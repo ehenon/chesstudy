@@ -2,11 +2,11 @@
 
 Etude créée à partir des vidéos YouTube de Blitzstream concernant les ouvertures faciles avec les blancs. Focus sur les variantes possibles de l'ouverture écossaise avec Kévin Bordi et Fabien Libiszewski.
 
-- Vidéo 1 : youtu.be/QRSg2GNkcRA
-- Vidéo 2 : youtu.be/cvXAEdR41XU
-- Vidéo 3 : youtu.be/yYHPT29F6zc
-- Vidéo 4 : youtu.be/vijqNevs19A
-- Vidéo 5 : youtu.be/TDP2whVWgZs
+- Vidéo 1 : https://www.youtube.com/watch?v=QRSg2GNkcRA
+- Vidéo 2 : https://www.youtube.com/watch?v=cvXAEdR41XU
+- Vidéo 3 : https://www.youtube.com/watch?v=yYHPT29F6zc
+- Vidéo 4 : https://www.youtube.com/watch?v=vijqNevs19A
+- Vidéo 5 : https://www.youtube.com/watch?v=TDP2whVWgZs
 
 Etude Lichess disponible ici : https://lichess.org/study/IHhojKT5.
 
@@ -14,136 +14,136 @@ Etude Lichess disponible ici : https://lichess.org/study/IHhojKT5.
 
 ### Scénario 1
 
-![](./gifs/video1_scenario1.gif)
+<img src="./gifs/video1_scenario1.gif" width="250">
 
 ### Scénario 2
 
-![](./gifs/video1_scenario2.gif)
+<img src="./gifs/video1_scenario2.gif" width="250">
 
 ### Scénario 3
 
-![](./gifs/video1_scenario3.gif)
+<img src="./gifs/video1_scenario3.gif" width="250">
 
 ### Scénario 4
 
-![](./gifs/video1_scenario4.gif)
+<img src="./gifs/video1_scenario4.gif" width="250">
 
 ### Scénario 5
 
-![](./gifs/video1_scenario5.gif)
+<img src="./gifs/video1_scenario5.gif" width="250">
 
 ### Scénario 6
 
-![](./gifs/video1_scenario6.gif)
+<img src="./gifs/video1_scenario6.gif" width="250">
 
 ### Scénario 7
 
-![](./gifs/video1_scenario7.gif)
+<img src="./gifs/video1_scenario7.gif" width="250">
 
 ### Scénario 8
 
-![](./gifs/video1_scenario8.gif)
+<img src="./gifs/video1_scenario8.gif" width="250">
 
 ### Scénario 9
 
-![](./gifs/video1_scenario9.gif)
+<img src="./gifs/video1_scenario9.gif" width="250">
 
 ### Scénario 10
 
-![](./gifs/video1_scenario10.gif)
+<img src="./gifs/video1_scenario10.gif" width="250">
 
 ## Vidéo 2
 
 ### Scénario 11
 
-![](./gifs/video1_scenario11.gif)
+<img src="./gifs/video1_scenario11.gif" width="250">
 
 ### Scénario 12
 
-![](./gifs/video1_scenario12.gif)
+<img src="./gifs/video1_scenario12.gif" width="250">
 
 ### Scénario 13
 
-![](./gifs/video1_scenario13.gif)
+<img src="./gifs/video1_scenario13.gif" width="250">
 
 ### Scénario 14
 
-![](./gifs/video1_scenario14.gif)
+<img src="./gifs/video1_scenario14.gif" width="250">
 
 ### Scénario 15
 
-![](./gifs/video1_scenario15.gif)
+<img src="./gifs/video1_scenario15.gif" width="250">
 
 ## Vidéo 3
 
 ### Scénario 16
 
-![](./gifs/video1_scenario16.gif)
+<img src="./gifs/video1_scenario16.gif" width="250">
 
 ### Scénario 17
 
-![](./gifs/video1_scenario17.gif)
+<img src="./gifs/video1_scenario17.gif" width="250">
 
 ### Scénario 18
 
-![](./gifs/video1_scenario18.gif)
+<img src="./gifs/video1_scenario18.gif" width="250">
 
 ### Scénario 19
 
-![](./gifs/video1_scenario19.gif)
+<img src="./gifs/video1_scenario19.gif" width="250">
 
 ### Scénario 20
 
-![](./gifs/video1_scenario20.gif)
+<img src="./gifs/video1_scenario20.gif" width="250">
 
 ### Scénario 21
 
-![](./gifs/video1_scenario21.gif)
+<img src="./gifs/video1_scenario21.gif" width="250">
 
 ### Scénario 22
 
-![](./gifs/video1_scenario22.gif)
+<img src="./gifs/video1_scenario22.gif" width="250">
 
 ### Scénario 23
 
-![](./gifs/video1_scenario23.gif)
+<img src="./gifs/video1_scenario23.gif" width="250">
 
 ### Scénario 24
 
-![](./gifs/video1_scenario24.gif)
+<img src="./gifs/video1_scenario24.gif" width="250">
 
 ## Vidéo 4
 
 ### Scénario 25
 
-![](./gifs/video1_scenario25.gif)
+<img src="./gifs/video1_scenario25.gif" width="250">
 
 ### Scénario 26
 
-![](./gifs/video1_scenario26.gif)
+<img src="./gifs/video1_scenario26.gif" width="250">
 
 ### Scénario 27
 
-![](./gifs/video1_scenario27.gif)
+<img src="./gifs/video1_scenario27.gif" width="250">
 
 ### Scénario 28
 
-![](./gifs/video1_scenario28.gif)
+<img src="./gifs/video1_scenario28.gif" width="250">
 
 ## Vidéo 5
 
 ### Scénario 29
 
-![](./gifs/video1_scenario29.gif)
+<img src="./gifs/video1_scenario29.gif" width="250">
 
 ### Scénario 30
 
-![](./gifs/video1_scenario30.gif)
+<img src="./gifs/video1_scenario30.gif" width="250">
 
 ### Scénario 31
 
-![](./gifs/video1_scenario31.gif)
+<img src="./gifs/video1_scenario31.gif" width="250">
 
 ### Scénario 32
 
-![](./gifs/video1_scenario32.gif)
+<img src="./gifs/video1_scenario32.gif" width="250">
