@@ -2,7 +2,7 @@
 
 Etude créée à partir de la vidéo YouTube de Eric Rosen sur les pièges du gambit Stafford : https://youtu.be/nH_fiqlLp2U. Pour aller plus loin, vidéo plus complète sur le gambit Stafford de manière générale : https://youtu.be/XkB4IVNaZWw.
 
-Etude Lichess disponible ici : https://lichess.org/study/sIMa23s1.
+Etude Lichess disponible ici : https://lichess.org/study/Onbup4bN.
 
 ## Piège 1 (sur d3)
 

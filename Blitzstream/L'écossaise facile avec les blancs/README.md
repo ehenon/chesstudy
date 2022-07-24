@@ -8,7 +8,7 @@ Etude créée à partir des vidéos YouTube de Blitzstream concernant les ouvert
 - Vidéo 4 : https://www.youtube.com/watch?v=vijqNevs19A
 - Vidéo 5 : https://www.youtube.com/watch?v=TDP2whVWgZs
 
-Etude Lichess disponible ici : https://lichess.org/study/IHhojKT5.
+Etude Lichess disponible ici : https://lichess.org/study/gwcHFDpu.
 
 ## Vidéo 1
 
