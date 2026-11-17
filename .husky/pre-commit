@@ -1,0 +1,5 @@
+# Format, lint et organisation des imports, limités aux fichiers indexés
+pnpm exec biome check --staged --no-errors-on-unmatched --files-ignore-unknown=true
+
+# Typage vérifié sur l'ensemble du projet (une modification peut casser un fichier non indexé)
+pnpm run typecheck

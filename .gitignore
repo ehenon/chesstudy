@@ -1,0 +1,24 @@
+# Fichiers d'agents IA locaux
+AGENTS.md
+.claude/
+
+# Dépendances
+node_modules/
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Variables d'environnement locales
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs
+*.log
+
+# Système / éditeurs
+.DS_Store
+.idea/
+.vscode/*

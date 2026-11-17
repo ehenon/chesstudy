@@ -1,0 +1,10 @@
+trustPolicy: no-downgrade
+
+audit:
+  level: high
+  ignore:
+    # picomatch <= 4.0.7 : ReDoS via des extglobs répétés (ex. `+(*)`), sans version corrigée à ce jour.
+    # Non exploitable ici : l'attaque exige de fournir le motif glob, or picomatch n'est qu'une dépendance
+    # d'outillage de Vite (absente du bundle livré) et n'évalue que des motifs issus de la configuration du projet.
+    # À retirer dès qu'une version corrigée est publiée.
+    - GHSA-fc5q-39xc-vjpf

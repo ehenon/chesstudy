@@ -1,0 +1,5 @@
+{
+	// Configuration « solution » : chaque environnement (navigateur, Node.js) a son propre projet
+	"files": [],
+	"references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }]
+}
